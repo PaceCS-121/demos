@@ -1,0 +1,19 @@
+Letter Grade,Percentage Range,Value,Description
+A,90-100,4.0,Excellent
+A-,90-100,3.7,Excellent
+B+,80-89,3.3,Good
+B,80-89,3.0,Good
+B-,80-89,2.7,Good
+C+,70-79,2.3,Satisfactory
+C,70-79,2.0,Satisfactory
+C-,70-79,1.7,Passing
+D+,60-69,1.3,Passing
+D,60-69,1.0,Passing
+F,0-59,0.0,Failing
+W,NULL,0,Withdrawal
+K,NULL,0,Grade Pending
+P,NULL,0,Pass
+I,NULL,0,Incomplete
+I-F,NULL,0,Unauthorized Withdrawal
+I-R,NULL,0,Remedial Work Required
+AUD,NULL,0,Auditor
