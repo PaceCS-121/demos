@@ -18,13 +18,13 @@ an apostrophe and a line break"""
 -654.321
 
 # example arithmetic operations
-print("6+2=", 6+2)
-print("6-2=", 6-2)
-print("6*2=", 6*2)
-print("6/2=", 6/2)
-print("6%2=", 6%2)
-print("6**2=", 6**2)
-print("6//4=", 6//4)
+# print("6+2=", 6+2)
+# print("6-2=", 6-2)
+# print("6*2=", 6*2)
+# print("6/2=", 6/2)
+# print("6%2=", 6%2)
+# print("6**2=", 6**2)
+# print("6//4=", 6//4)
 
 # example assignment operations
 x = 5
@@ -63,6 +63,3 @@ print("Hello World") # calls the print() function; returns None
 # x = 10
 # print("reassign value of x:", x)
 # # reassign value of x: 10
-
-
-print('hi')
